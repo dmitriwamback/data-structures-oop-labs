@@ -1,0 +1,29 @@
+.moon {
+    -fx-fill: #fffacd;
+    -fx-stroke: #cecead;
+    -fx-stroke-width: 2;
+}
+
+.pumpkin {
+    -fx-fill: orange;
+    -fx-stroke: #bd7b10;
+    -fx-stroke-width: 4;
+}
+
+.eye {
+    -fx-fill: #000000;
+}
+
+.mouth {
+    -fx-fill: #000000;
+}
+
+.trunk {
+    -fx-stroke: #825b26;
+    -fx-stroke-width: 10;
+}
+
+.branch {
+    -fx-stroke: #825b26;
+    -fx-stroke-width: 5;
+}
